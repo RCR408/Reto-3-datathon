@@ -1,0 +1,30 @@
+{
+    "nombre": "ROGA Insight AI",
+    "version": "1.0-prototipo",
+    "poblacion": "Cliente Nuevo",
+    "variables": [
+        "Importe_Pedido",
+        "pago_quincenal",
+        "monto_financiado",
+        "Anticipo_Condicionado",
+        "ratio_anticipo",
+        "plazo_meses",
+        "n_productos",
+        "Ingreso_Cliente",
+        "Meses_Empleo",
+        "Capacidad_Quincenal",
+        "personas_en_Domicilio",
+        "sueldo_conyuge",
+        "meses_antiguedad_conyuge",
+        "Tiene_Aval",
+        "Tipo_Domicilio",
+        "Tipo_Empleo",
+        "Tipo_Empleo_Conyuge"
+    ],
+    "umbral_alerta": 0.4,
+    "roc_auc_prueba": 0.6358051825314842,
+    "accuracy_prueba": 0.6123853211009175,
+    "registros_desarrollo": 1740,
+    "registros_prueba": 436,
+    "advertencia": "Prototipo de apoyo al analista. No utilizar para decisiones automaticas."
+}
